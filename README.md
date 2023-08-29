@@ -11,6 +11,8 @@
     </strong>
 </h1>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bf1d60a9-0c77-4860-a7fd-ed6a02feba4a/deploy-status)](https://app.netlify.com/sites/rateripple/deploys)
+
 ![](/web-page.PNG)
 
 <p style="font-size: 16px; text-align: center;">RateRipple - simple Web-Application based on React with API that can convert a lot of currencies in world.</p>
