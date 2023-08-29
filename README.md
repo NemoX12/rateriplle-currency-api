@@ -11,7 +11,7 @@
     </strong>
 </h1>
 
-<img src="web-page.png" alt="web-page" />
+![](web-page.png)
 
 <p style="font-size: 16px; text-align: center;">RateRipple - simple Web-Application based on React with API that can convert a lot of currencies in world.</p>
 
