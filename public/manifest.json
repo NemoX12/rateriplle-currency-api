@@ -1,0 +1,8 @@
+{
+  "short_name": "RateRipple",
+  "name": "RateRipple - Convert everywhere, where you need.",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
