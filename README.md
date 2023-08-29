@@ -1,6 +1,7 @@
 <h2>Links:</h2>
 
 <ul>
+    <li><a href="https://rateripple.netlify.app">RateRipple</a></li>
     <li><a href="#how-to-use">How-To-Use</a></li>
     <li><a href="#license">License</a></li>
 </ul>
